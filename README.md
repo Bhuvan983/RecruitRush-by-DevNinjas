@@ -1,5 +1,6 @@
 # RecruitRush-by-DevNinjas
-This is the repository for the initial screening round of Hackathon. RecruitRush is the name of our project. <br>
+This is the repository for the initial screening round of Hackathon. 
+Our team members areRecruitRush is the name of our project. <br>
 ![image](https://github.com/Bhuvan983/RecruitRush-by-DevNinjas/assets/94850851/86f89dd6-208a-437b-8259-7c384aeddff2)
 
 <h2>Idea of Project</h2> 
