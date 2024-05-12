@@ -1,6 +1,17 @@
 # RecruitRush-by-DevNinjas
-This is the repository for the initial screening round of Hackathon. 
-Our team members areRecruitRush is the name of our project. <br>
+This is the repository for the initial screening round of Hackathon. <br>
+<b>Our team (DevNinjas) members are:
+Nakka Bhuvan Lohit Dev - VU21CSEN0100463<br>
+Varri Ram Narisimha Tharakeswar - VU21CSEN0100414<br>
+Narava Surekha - VU21CSEN0100369<br>
+Aparna Aakondi - VU21CSEN0100340
+</b><br>
+
+<h2>We have deployed the solution of our hackathon at:
+https://bhuvan983.github.io/RecruitRush-by-DevNinjas/
+</h2>
+RecruitRush is the name of our project. <br>
+
 ![image](https://github.com/Bhuvan983/RecruitRush-by-DevNinjas/assets/94850851/86f89dd6-208a-437b-8259-7c384aeddff2)
 
 <h2>Idea of Project</h2> 
