@@ -61,8 +61,8 @@ Ace your interviews with our Online Interview Preparation platform, featuring si
 ![image](https://github.com/Bhuvan983/RecruitRush-by-DevNinjas/assets/94850851/337b4709-51b0-4165-ac75-f09cad3b32b1)
 ![image](https://github.com/Bhuvan983/RecruitRush-by-DevNinjas/assets/94850851/6dc3e322-2b84-420d-9156-da5772f0bf9c)
 
-<h4>Youtube Demo of Interview:</h4>
-https://youtu.be/7slWl_CI908
+<h2>Youtube Demo of Interview:
+https://youtu.be/7slWl_CI908 </h2>
 
 
 <h3>AI Feedback with Chatbot Integration</h3>
