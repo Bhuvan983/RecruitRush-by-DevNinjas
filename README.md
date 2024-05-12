@@ -22,3 +22,10 @@ RecruitRush provides students with quick and accessible access to tailored inter
 <h2>Features of Web-Application</h2>
 
 <h3>Mock Aptitude Quiz</h3>
+Instant preparation for placement exams with our Mock Aptitude Quiz, designed to simulate real aptitude tests encountered during job interviews. Test your numerical, verbal, and logical reasoning skills, and receive instant feedback to identify areas for improvement.
+<h3>Coding Test Platform</h3>
+Elevate your coding skills with our Coding Test Platform, offering a wide range of coding challenges and projects. Practice coding in various languages, solve real-world problems, and refine your programming abilities through interactive assessments and detailed performance analysis
+<h3>Online Interview Simulation</h3>
+Ace your interviews with our Online Interview Preparation platform, featuring simulated interview experiences tailored to your field. Practice behavioral and technical interview questions, and boost your confidence for your upcoming job interviews
+<h3>AI Feedback with Chatbot Integration</h3>
+Experience personalized feedback like never before with our AI-powered chatbot integration. Seamlessly integrated with our Mock Aptitude Quiz, Coding Test Platform, and Online Interview Preparation, our chatbot analyzes your performance across aptitude tests, coding challenges, and interview simulations. Receive tailored feedback, actionable insights, and targeted recommendations to enhance your skills and maximize your success in placement interviews.
