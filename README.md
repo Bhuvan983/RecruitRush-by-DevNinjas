@@ -70,3 +70,4 @@ Experience personalized feedback like never before with our AI-powered chatbot i
 
 ![image](https://github.com/Bhuvan983/RecruitRush-by-DevNinjas/assets/94850851/1c365600-2b0d-48eb-aaa5-9e657313d85d)
 
+
